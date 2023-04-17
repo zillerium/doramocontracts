@@ -161,4 +161,3 @@ function getAssetsByWallet(address _wallet) public view returns (uint256[] memor
         return super.tokenURI(tokenId);
     }
 }
-
